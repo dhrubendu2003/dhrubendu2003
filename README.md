@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Backend, DB Handling**
 
-- 🌱 I’m currently learning **DSA, DevOps**
+- 🌱 I’m currently learning **DSA, JDBC**
 
-- 👯 I’m looking to collaborate on **Startups and short hand Projects**
+- 👯 I’m looking to collaborate on **Startups and Short-hand Projects**
 
 - 💬 Ask me about **MERN, JAVA, PYTHON**
 
